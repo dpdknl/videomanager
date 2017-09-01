@@ -1,0 +1,15 @@
+{
+  "name": "dpdk-videomanager",
+  "version": "0.2.9",
+  "description": "A small DPDK video manager",
+  "main": "dist/videoManager.js",
+  "author": {
+    "name" : "Glenn de Haan | DPDK",
+    "email" : "glenn.de.haan@dpdk.com",
+    "url" : "https://dpdk.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "1.19.0"
+  }
+}
